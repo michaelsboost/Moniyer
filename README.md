@@ -22,13 +22,13 @@ Want to contribute? Great!
 
 You can submit a pull request or simply share the project :)  
 
-*As of March 11th, 2022 TouchDrawer is no longer an active project. All updates as of that date and on are solely contributor based implementations.*
+*As of May 29th, 2022 Moniyer is no longer an active project. All updates as of that date and on are solely contributor based implementations.*
 
-Of course TouchDrawer is free and open source, so you can always fork the project and have fun :)  
+Of course Moniyer is free and open source, so you can always fork the project and have fun :)  
 
 [![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0)](https://ko-fi.com/michaelsboost)  
 
-If TouchDrawer was at all helpful for you. You can show your appreciation a few ways...  
+If Moniyer was at all helpful for you. You can show your appreciation a few ways...  
 
 1) Check out my Graphic Design Course: https://michaelsboost.com/graphicdesign  
 2) Registering on my store as a customer: https://michaelsboost.com/store  
